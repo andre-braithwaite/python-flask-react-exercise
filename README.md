@@ -5,6 +5,6 @@
 - The project should build and the server/react app should start running.
 
 # Running Instructions
-- Navigate to a users page by changin the ID number in the url.
-- Urls should be in the format below including the trailing /:
+- Navigate to a users page by changing the ID number in the url.
+- Urls should be in the format below including the trailing slash
  ```http://localhost/user/7/```
