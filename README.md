@@ -6,5 +6,5 @@
 
 # Running Instructions
 - Navigate to a users page by changing the ID number in the url.
-- Urls should be in the format below including the trailing slash
+- Urls should be in the format shown including the trailing slash:
  ```http://localhost/user/7/```
